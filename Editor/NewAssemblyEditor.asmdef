@@ -1,0 +1,16 @@
+{
+    "name": "NewAssemblyEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:45179b91e5c232347b867a9782133d6b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
